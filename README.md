@@ -11,3 +11,8 @@ To display the examples on the server
 
     npm install -g http-server
     $ http-server
+
+## Something new
+
+d3.mouse was removed in d3v6, we use d3.pointer(event).
+see example 07 for more information.
